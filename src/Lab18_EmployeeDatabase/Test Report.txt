@@ -1,0 +1,14 @@
+Type of Hashing Used: LINEAR PROBING
+Quality of Hashing Function: POOR
+Number of Record Added: 50000
+Table Size: 100000
+Load Factor: 0.5
+Average Insertion Time: 0.0223ms
+Number of Table Insertion Collisions: 0
+Percentage of Collision: 0.0%
+Successful Search Records
+Average Search Time: 0.621ms
+Number of Probes Needed: 0
+Unsuccessful Search Records
+Average Search Time: 0.615ms
+Number of Probes Needed: 45235473
